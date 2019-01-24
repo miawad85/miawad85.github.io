@@ -51,8 +51,8 @@ Work experience
 * Mar 2011 - Aug 2012: Research Associate
    * KADDB Industrial Park
    * Duties included:
-   -
-   -Design & Development Tasks:
+   
+    -Design & Development Tasks:
       1-Product Development.
       2-Upgrading & Designing Electrical Systems for Military and civil vehicles
       3-Design Smart Systems for military vehicles and ambulance applications
@@ -62,19 +62,19 @@ Work experience
       7- Mechanical Analysis for Vehicle Structures and Loadings
       8- Mechanical Design for Vehicle Structure & Furniture
 
-   -Material Planning Tasks:
+    -Material Planning Tasks:
       1- Preparing Bill of Materials (BOMs) for vehicles
       2- Selecting Electrical components for automotive applications
       3- Selecting Mechanical & Vehicle Construction Materials
 
-   -Production and QC Tasks:
+    -Production and QC Tasks:
       1- Supervision on electrical systems furnishing on prototype vehicles
       2- Production Problems Troubleshooting
 
-   -Industrial Automation & Maintenance Tasks:
+    -Industrial Automation & Maintenance Tasks:
       1- Programming and Control system design for automated machines built at the JLVM
 
-   -Production QA Tasks:
+    -Production QA Tasks:
       1-Applying International Standards of Ambulance Manufacturing on JLVM products (KKK Standards, EU Standards, BR Standards
   
 Skills
