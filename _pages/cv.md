@@ -11,16 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechatronics Engineering, Hashemite University , 2007
+* M.S. in Mechatronics, Jordan University of Science and Techology, 2011
+* Ph.D in Robotics, Khalifa University of Science and Technology, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2018 - Present: Postdoctoral Fellow
+  * Khalifa University
+  * Duties included: R&D duties to develop new concepts in Firefighting Drones. Providing innovative mechanical, mechatronics and control system solutions.
+
+  * Research Interests:
+   * 1- Artificial Intelligence Algorithms (Theory and Applications): Deep Learning
+   * 2- Variable Stiffness Actuation
+   * 3- Biomedical Robotics
+  * Supervisor: Professor Yahya Zweiri, Professor Lakmal Seneviratne
 
 * Fall 2015: Research Assistant
   * Github University
