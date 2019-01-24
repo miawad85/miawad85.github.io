@@ -40,7 +40,7 @@ Work experience
 2- Mechatronics Lab Instructor (Mechanical Engineering Department
 3- Modern Control Lab Instructor (Electrical and Computer Engineering Department)
 
-* Supervisor: Professor Dongming Gan
+   * Supervisor: Professor Dongming Gan
 
 * Aug 2012 - Feb 2014: Research Associate
   * Masdar Institute
@@ -76,7 +76,26 @@ Work experience
 
     -Production QA Tasks:
       1-Applying International Standards of Ambulance Manufacturing on JLVM products (KKK Standards, EU Standards, BR Standards
-  
+
+* Feb 2008 - Jun 2010: Research & Teaching Associate
+   * Jordan University of Science and Technology
+   * Duties included:
+    - Teaching Assistant for the following subjects:
+       1- Engineering Drawing: Manual & AutoCAD
+       2- Mechanical Vibration Lab.
+       3- Instruments and Measurements Lab.
+       4- Thermodynamics I Course.
+
+     - Research Assistant in the Humanitarian Robot mechanical design, improvement and optimization with Dr. Mohammad Jaradat and Dr. Bashar Alkhasawneh.
+
+     - Worked as a designer for Automated notebook covering machine (Mechanical Design, PLC Programming) with JUST Consulting Councle for Industry
+
+* Jun 2007 - Dec 2007: Automation Engineer
+   * Alfidaa Engineering: OMRON Automation Dealer in Jordan
+   * Duties included:
+     -Junior Automation Engineer, worked in Design and Implementing automation system (PLC, SCADA, Measurements) in several fields of industry and agriculture such as (Food, Chemical, Water Treatment, Plastic...). Also, gained extra skills in Power electronics, power system design, motor drive... etc 
+
+     
 Skills
 ======
 * Skill 1
