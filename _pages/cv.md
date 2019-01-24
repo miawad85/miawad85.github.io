@@ -22,9 +22,9 @@ Work experience
   * Duties included: R&D duties to develop new concepts in Firefighting Drones. Providing innovative mechanical, mechatronics and control system solutions.
 
   * Research Interests:
-   * 1- Artificial Intelligence Algorithms (Theory and Applications): Deep Learning
-   * 2- Variable Stiffness Actuation
-   * 3- Biomedical Robotics
+      1- Artificial Intelligence Algorithms (Theory and Applications): Deep Learning
+      2- Variable Stiffness Actuation
+      3- Biomedical Robotics
   * Supervisor: Professor Yahya Zweiri, Professor Lakmal Seneviratne
 
 * Fall 2015: Research Assistant
