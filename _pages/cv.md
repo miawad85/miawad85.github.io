@@ -98,12 +98,21 @@ Work experience
      
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Aided Design 
+  * Creo, ProEngineer
+  * SolidWorks
+  * AutoCAD
+* Programming
+  * MATLAB/ SIMULINK
+  * C++/Python
+  * Ladder Programming
+* Computer Aided Manufacturing
+  * MasterCAM
+  * G-Code
+* Manual Metal Machining
+  * Lathe
+  * Milling 3-Axis
+
 
 Publications
 ======
