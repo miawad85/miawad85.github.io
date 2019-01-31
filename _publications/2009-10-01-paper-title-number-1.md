@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://miawad85.github.io/files/BpVSJ.pdf)
 
-Recommended citation: Awad, Mohammad I et al. (2018). "Design of a novel Passive Binary-Controlled Variable Stiffness Joint (BpVSJ) towards passive haptic interface application" <i>IEEE Access</i>. 6(1).
+Recommended citation: Awad, M et al. (2018). "Design of a novel Passive Binary-Controlled Variable Stiffness Joint (BpVSJ) towards passive haptic interface application" <i>IEEE Access</i>. 6(1).
