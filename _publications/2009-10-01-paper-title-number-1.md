@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Design of a novel Passive Binary-Controlled Variable Stiffness Joint (BpVSJ) towards passive haptic interface application"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
