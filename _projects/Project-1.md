@@ -2,6 +2,7 @@
 title: "Firefighting Drone for High-Rise Buildings"
 excerpt: "<br/><img src='/images/ffuav-logo.png'> "
 collection: projects
+
 ---
 ## Sponsor: EMAAR	
 
