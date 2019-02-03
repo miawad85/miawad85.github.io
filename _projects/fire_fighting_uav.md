@@ -3,17 +3,14 @@ title: "Firefighting Drone for High-Rise Buildings"
 excerpt: "<br/><img src='/images/ffuav-logo.png'> "
 collection: projects
 ---
-Sponsor: EMAAR	
+# Sponsor: EMAAR	
 
-Team Members:
+# Team Members:
 
-Prof. Lakmal Seneviratne – Principle Investigator
-
-Prof. Yahya Zweiri – Co-Principle Investigator
-
-Dr. Mohammad Awad – Post-Doctoral Research Fellow
-
-Eng. Mohamad Chehadeh-  Research Engineer
+## - Prof. Lakmal Seneviratne – Principle Investigator
+## - Prof. Yahya Zweiri – Co-Principle Investigator
+## - Dr. Mohammad Awad – Post-Doctoral Research Fellow
+## - Eng. Mohamad Chehadeh-  Research Engineer
 
 Overview:
 
@@ -23,8 +20,9 @@ Overview:
 <br/><img src='/images/ffuav-2.png'>
 
 Project Objectives:
--
+
 -Product Development Objectives
+
 --Design and Prototype a Firefighting Drone System with the following features:
 ---•	Fast system preparation 
 ---•	Fast top reach
