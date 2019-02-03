@@ -4,13 +4,13 @@ excerpt: "<br/><img src='/images/ffuav-logo.png'> "
 collection: projects
 ---
 Sponsor: EMAAR	
--
+
 Team Members:
--Prof. Lakmal Seneviratne – Principle Investigator
--Prof. Yahya Zweiri – Co-Principle Investigator
--Dr. Mohammad Awad – Post-Doctoral Research Fellow
--Eng. Mohamad Chehadeh-  Research Engineer
--
+Prof. Lakmal Seneviratne – Principle Investigator
+Prof. Yahya Zweiri – Co-Principle Investigator
+Dr. Mohammad Awad – Post-Doctoral Research Fellow
+Eng. Mohamad Chehadeh-  Research Engineer
+
 Overview:
 
 -High rise buildings (such as Burj Khalifa, the tallest building in the world), is in need of efficient and rapid response method to fires. Current methods mobilize human fire-fighting units to inspect and extinguish the fire. This can take up to 20 minutes in best case scenarios, and reaching higher floors remains very challenging. Until recently, there has no firefighting UAVs that is able to reach high-altitudes (above 300 meters), this project will develop a UAV to extinguish fire in high rise buildings, to reduce the response time down, and reach higher floors of high rise buildings.
