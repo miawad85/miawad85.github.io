@@ -6,9 +6,13 @@ collection: projects
 Sponsor: EMAAR	
 
 Team Members:
+
 Prof. Lakmal Seneviratne – Principle Investigator
+
 Prof. Yahya Zweiri – Co-Principle Investigator
+
 Dr. Mohammad Awad – Post-Doctoral Research Fellow
+
 Eng. Mohamad Chehadeh-  Research Engineer
 
 Overview:
